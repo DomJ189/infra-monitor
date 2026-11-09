@@ -1,4 +1,4 @@
-**INFRA-MONITOR**
+## INFRA-MONITOR
 
 A Python tool that checks whether selected hosts are reachable, records
 response times and timestamps, and stores the results in SQLite.
